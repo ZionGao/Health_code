@@ -1,0 +1,12 @@
+six>=1.15.0
+pandas
+Flask
+numpy
+jieba
+flask_cors
+py2neo
+tensorflow==1.14.0
+pyahocorasick
+easydict
+foolnltk
+gensim
